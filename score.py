@@ -11,7 +11,7 @@ from pyecharts import Line,EffectScatter,Overlap,Pie,Grid
 import csv
 
 
-SR = 1  #scaling ratio 缩放比例
+SR = 2  #scaling ratio 缩放比例
 
 def getCaptcha(driver):
     APP_ID = '15998954'
